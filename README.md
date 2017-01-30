@@ -42,4 +42,4 @@ and look over again. So, that's why you are reading this now.
 
 --
 
-[Read how the mechanism works.](https://medium.com/@OrkoHunter)
+[Read how this works.](https://medium.com/p/6dbfbc996b39)
