@@ -1,13 +1,19 @@
 ### My favorite fortune aggregator
 > For the love of Linux command line tool `fortune`
 
+[See my Collection](https://orkohunter.net/mfdf) :tada:
+
 ```
- _____________________________________
-( Your boyfriend takes chocolate from )
-( strangers.                          )
- -------------------------------------
-   o
-    o
+ _________________________________________
+/ All generalizations are false,          \
+|                                         |
+| including this one.                     |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
+   \
+    \
         .--.
        |o_o |
        |:_/ |
@@ -36,11 +42,4 @@ and look over again. So, that's why you are reading this now.
 
 --
 
-**NOTE** : This repository will be worked upon soon. Apparently, exams
-bring me ideas and tempt me hard to work upon them, so that I screw up
-my papers.
-
-But I somehow manage time, to not to screw that bad.
-
-Well anyways,
-Happy Coding !
+[Read how the mechanism works.](https://medium.com/@OrkoHunter)
