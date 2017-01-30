@@ -1,6 +1,6 @@
 #!/bin/sh
 
-printf '%s%s' "$date, $last_fortune" >> /home/hunter/workspace/mfdf/fortunes
+printf "%s %s\n" "$(date)" "$last_fortune" >> /home/hunter/workspace/mfdf/fortunes
 
 cd /home/hunter/workspace/mfdf
 
