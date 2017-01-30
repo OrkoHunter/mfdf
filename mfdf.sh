@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 echo -E $last_fortune >> /home/hunter/workspace/mfdf/fortunes
 
