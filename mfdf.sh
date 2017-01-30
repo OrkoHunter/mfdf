@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-echo $last_fortune >> /home/hunter/workspace/mfdf/fortunes
+echo -e $last_fortune >> /home/hunter/workspace/mfdf/fortunes
 
 cd /home/hunter/workspace/mfdf
 
