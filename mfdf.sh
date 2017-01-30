@@ -1,6 +1,6 @@
 #!/bin/sh
 
-printf "%s\n%s\n\n" "$(date)" "$last_fortune" >> /home/hunter/workspace/mfdf/fortunes
+printf "%s\n%s\n\n$(cat /home/hunter/workspace/mfdf/fortunes)" "$(date)" "$last_fortune" > /home/hunter/workspace/mfdf/fortunes
 
 cd /home/hunter/workspace/mfdf
 
