@@ -34,8 +34,7 @@
 > *- W. Shakespeare 1549 AD*
 
 
-I am so in love with Linux _(Not [Linus](https://github.com/torvalds)!)._
-I am personally very fond of the commands `fortune` and `cowsay`, so much
+I am so in love with Linux. I am personally very fond of the commands `fortune` and `cowsay`, so much
 that every time when my terminal session starts, I spare 2-5 seconds with
 new fortunes. But there were many ones which I wanted to store somewhere
 and look over again. So, that's why you are reading this now.
