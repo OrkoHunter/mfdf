@@ -12,17 +12,7 @@
 | -- Mark Twain, "Pudd'nhead Wilson's     |
 \ Calendar"                               /
  -----------------------------------------
-   \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
-```
-
+ 
 ### To quote from a sysadmin's personal notes
  There are two types of Linux users :
 
