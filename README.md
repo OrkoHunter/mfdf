@@ -1,7 +1,7 @@
 ### My favorite fortune aggregator
 > For the love of Linux command line tool `fortune`
 
-[See my Collection](https://orkohunter.net/mfdf) :tada:
+[See my Collection](https://github.com/OrkoHunter/mfdf/blob/master/fortunes) :tada:
 
 ```
  _________________________________________
